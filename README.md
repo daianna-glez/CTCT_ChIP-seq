@@ -7,7 +7,7 @@ Bioinformatics and Statistics class 2022, LCG - UNAM undergraduate program.
 This work obtains CTCF binding sites motifs with **RSAT** tools and uses them to identify co-localized TFBS.
 
 ## Motivation
-To gain insights into CTCF interactions with other TFs in breast cancer through the identifiation of TFs that co-occupy CTCF binding sites in the MCF-7 breast cell line, thus not directly based on ChIP-seq data but guided by motif similarity and correlation.
+To gain insights into CTCF interactions with other TFs in breast cancer through the identifiation of TFs that co-occupy CTCF binding sites in the MCF-7 breast cell line.
 
 ## System requirements
 No system requirements needed.
