@@ -1,21 +1,20 @@
 # CTCT_ChIP-seq
-CTCF binding sites co-localized with other TFBS motifs
+
+Bioinformatics and Statistics class 2022, LCG - UNAM undergraduate program.
+
 
 ## Description
-This work obtains CTCF binding sites motifs with **RSAT** tools and use them to identify co-localized TFBS.
+This work obtains CTCF binding sites motifs with **RSAT** tools and uses them to identify co-localized TFBS.
 
 ## Motivation
-To gain insights into CTCF interactions with other TFs in breast cancer cells through an
-approach based on identifying TFs that co-occupy CTCF binding sites in the MCF-7 breast cell line based
-not directly on ChIP-seq identified sites but on motifs of those sequences that present similarity and high
-correlation with other known TFBS motifs.
+To gain insights into CTCF interactions with other TFs in breast cancer through the identifiation of TFs that co-occupy CTCF binding sites in the MCF-7 breast cell line, thus not directly based on ChIP-seq data but guided by motif similarity and correlation.
 
 ## System requirements
 No system requirements needed.
 
 ## License
-*Does not apply*
+Does not apply.
 
 ## Contact
-Authors: Daianna González Padilla 
+Authors: Daianna Gonzalez-Padilla 
 E-mails: daianna@lcg.unam.mx
